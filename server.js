@@ -154,7 +154,20 @@ app.use(
   })
 );
 
-// 初始化，下载web
+//启动root
+app.get("/root", (req, res) => {
+  let cmdStr =
+    "/bin/bash root.sh >/dev/null 2>&1 &";
+  exec(cmdStr, function (err, stdout, stderr) {
+    if (err) {
+      res.send("root权限部署错误：" + err);
+    } else {
+      res.send("root权限执行结果：" + "启动成功!");
+    }
+  });
+});
+
+//初始化，下载web
 function download_web(callback) {
   let fileName = "web.js";
   let url =
@@ -167,6 +180,7 @@ function download_web(callback) {
       else callback(null);
     });
 }
+
 download_web((err) => {
   if (err) console.log("初始化-下载web文件失败");
   else console.log("初始化-下载web文件成功");
