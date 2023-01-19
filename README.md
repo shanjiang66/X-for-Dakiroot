@@ -73,7 +73,7 @@
 
 <img width="766" alt="image" src="https://user-images.githubusercontent.com/92626977/212643085-4a8b625c-e55e-405e-8d63-a9585f5940b1.png">
 
-<img width="1198" alt="image" src=https://user-images.githubusercontent.com/92626977/213434139-252d8226-e29e-4c16-93d8-ec1ca8439a25.png">
+<img width="1198" alt="image" src="https://user-images.githubusercontent.com/92626977/213434139-252d8226-e29e-4c16-93d8-ec1ca8439a25.png">
 
 ## 鸣谢下列作者的文章和项目:
 大佬 Nike Jeff 的项目文件
