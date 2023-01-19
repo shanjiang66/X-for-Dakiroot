@@ -76,9 +76,9 @@
 <img width="1198" alt="image" src="https://user-images.githubusercontent.com/92626977/213434139-252d8226-e29e-4c16-93d8-ec1ca8439a25.png">
 
 ## 鸣谢下列作者的文章和项目:
-大佬 Nike Jeff 的项目文件
-HiFeng' Blog: https://www.hicairo.com/post/57.html
-wiw' Blog: https://wolan.me/
+* 大佬 Nike Jeff 的项目文件
+* HiFeng' Blog: https://www.hicairo.com/post/57.html  
+* wiw' Blog: https://wolan.me/
 
 ## 免责声明:
 * 本程序仅供学习了解, 非盈利目的，请于下载后 24 小时内删除, 不得用作任何商业用途, 文字、数据及图片均有所属版权, 如转载须注明来源。
